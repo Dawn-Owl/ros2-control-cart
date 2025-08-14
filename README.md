@@ -3,14 +3,14 @@
 A minimal **ROS 2 differential-drive cart** controlled via **ros2_control** with **keyboard teleop**.  
 Includes URDF (xacro), controller config, and RViz display for quick verification.
 
-> ![ROS graph](images/rosgraph.png)
+> ![ROS graph](images/rpt.png)
 
 ---
 
 ## 🌀 Demo
 > Add your GIF to `images/demo.gif` and it will show here.
 
-![demo](images/demo.gif)
+![demo](images/ros2_control_cart.gif)
 
 ---
 
