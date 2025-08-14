@@ -8,9 +8,7 @@ Includes URDF (xacro), controller config, and RViz display for quick verificatio
 ---
 
 ## 🌀 Demo
-> Add your GIF to `images/demo.gif` and it will show here.
-
-![demo](images/ros2_control_cart.gif)
+>![demo](images/ros2_control_cart.gif)
 
 ---
 
