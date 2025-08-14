@@ -1,0 +1,15 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Python / C++
+__pycache__/
+*.pyc
+
+# VSCode (원하면 제외)
+.vscode/
+
+# Misc
+.DS_Store
+*.swp
